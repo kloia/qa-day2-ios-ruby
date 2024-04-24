@@ -1,0 +1,12 @@
+:caps:
+  platformName: "iOS"
+  deviceName: "Test Automation"
+  app: ""
+  noReset: false
+  fullReset: false
+  autoAcceptAlerts: true
+  bundleId: ""
+  udid: ""
+
+:appium_lib:
+  server_url: "http://127.0.0.1:4723/"

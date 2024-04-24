@@ -1,0 +1,15 @@
+:caps:
+  testName: "Etkinlik Digitalai iOS Test Automation"
+  accessKey: ""
+  bundleId: ""
+  app: ""
+  udid: ""
+  platformName: "iOS"
+  autoAcceptAlerts: true
+  noReset: false
+  fullReset: false
+  deviceCleanup: true
+  appiumVersion: 1.22.3
+
+:appium_lib:
+  server_url: ""
